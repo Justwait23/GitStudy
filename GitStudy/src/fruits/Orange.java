@@ -2,6 +2,6 @@ package fruits;
 
 public class Orange {
 	
-	int a;
+	int sweet;
 
 }
